@@ -20,5 +20,6 @@ Here are some scrennshot of this :
 ![4](https://user-images.githubusercontent.com/80045221/128295669-59559c2b-bf66-46e3-afbd-ceb46ac64e8c.png)
 
 
+In this ther is also a hidden url : localhost:xxxx/compose
 
 ![5](https://user-images.githubusercontent.com/80045221/128295636-92d69659-e635-4483-892a-68ed5ad99165.png)
